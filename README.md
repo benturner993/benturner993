@@ -1,4 +1,4 @@
 ### I'm Ben 👋 
 
-- 🌱 I’m currently learning about... scaling ML
-- 🤔 I’m looking for help with... AWS / Kubeflow
+- :space_invader: I’m currently enter many ML competitions as possible
+- 🤔 I’m looking to learn about AWS / Kubeflow
